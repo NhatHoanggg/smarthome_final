@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108877943104",
+    "project_id": "vsl-final",
+    "storage_bucket": "vsl-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108877943104:android:8d1ace213b26abfdee6aa5",
+        "android_client_info": {
+          "package_name": "com.example.smarthome_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVwCcu4KtXcADI4V8UnNxd1YjU6JDDa3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
